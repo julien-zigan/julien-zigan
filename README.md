@@ -37,6 +37,7 @@ Topics I learned about include:
 + C
 + HTML, CSS, JavaScript
 + Git
++ OOP
 + TDD
 + SQL
 + design patterns
