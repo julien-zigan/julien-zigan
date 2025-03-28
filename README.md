@@ -2,21 +2,20 @@
 
 Nothing drives me more than understanding complex systems. 
 I'm at my best, when I face abstract intellectual challenges that force me to
-navigate uncharted territory. I welcome frustrating days of being completely at sea 
-with something new I learn, because I know the deep satisfaction I encounter when
+navigate uncharted territory. I welcome frustrating days of being completely at sea, anticipating the deep satisfaction when
 finally I start to see some structure. Ok, it's often rather weeks at sea, sometimes months.
-The work always pays off, eventually. 
+Either way, the work always pays off. 
 
-Having a tendency to dwell in theory, discovering coding felt like salvation.
+Having a tendency to dwell in theory, it felt like braking a curse when I discovered coding.
 Did you know that by juggling around some comfortably abstract concepts and 
 structuring them in source code, you can - I sh*t you not - actually solve 
 day to day problems??? Well, why didn't you tell me sooner:question:
 
 It was rather cumbersome to get there on my own, I can tell you! First, I 
-had to learn discipline, so I spent five years at the army. Alas, that was too much 
-of it, so it took me a considarable time studying literature and philosophy to brush the abudant 
-discipline off. I then spent two years in Poland, learning a completely unfamiliar 
-language and working in customer service for an international e-commerce company.
+had to learn discipline, so I spent five years at the army. Alas, that overdid it, 
+so it took me a considarable time studying literature and philosophy to brush the abudant 
+discipline off. Two years spent in Poland followed, learning a completely unfamiliar 
+language (why not?) and working in customer service for an international e-commerce company.
 Back in Germany I worked two years in logistics and another two years in roofing. 
 And only then did destiny arrange for a meeting with coding.
 
