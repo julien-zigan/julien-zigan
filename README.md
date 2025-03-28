@@ -6,13 +6,13 @@ navigate uncharted territory. I welcome frustrating days of being completely at 
 finally I start to see some structure. Ok, it's often rather weeks at sea, sometimes months.
 Anyway, the work always pays off. 
 
-Having a tendency to dwell in theory, it felt like braking a curse when I discovered coding.
+Having a tendency to dwell in theory, it felt like breaking a curse when I discovered coding.
 Did you know that by juggling around some comfortably abstract concepts and 
 structuring them in source code, you can - I sh*t you not - actually solve 
 day to day problems??? Well, why didn't you tell me sooner❓
 
 It was rather cumbersome to get there on my own, I can tell you! First, I 
-had to learn discipline, so I spent five years at the army. Alas, that overdid it, 
+had to learn discipline, so I spent five years in the army. Alas, that overdid it, 
 so it took me a considarable time studying literature and philosophy to brush the abudant 
 discipline off. Two years spent in Poland followed, learning a completely unfamiliar 
 language (why not?) and working in customer service for an international e-commerce company.
