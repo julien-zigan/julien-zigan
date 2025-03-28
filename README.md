@@ -4,7 +4,7 @@ Nothing drives me more than understanding complex systems.
 I'm at my best, when I face abstract intellectual challenges that force me to
 navigate uncharted territory. I welcome frustrating days of being completely at sea, anticipating the deep satisfaction when
 finally I start to see some structure. Ok, it's often rather weeks at sea, sometimes months.
-Either way, the work always pays off. 
+Anyway, the work always pays off. 
 
 Having a tendency to dwell in theory, it felt like braking a curse when I discovered coding.
 Did you know that by juggling around some comfortably abstract concepts and 
@@ -19,7 +19,7 @@ language (why not?) and working in customer service for an international e-comme
 Back in Germany I worked two years in logistics and another two years in roofing. 
 And only then did destiny arrange for a meeting with coding.
 
-In July 2024 I started professional training to become a software developer at GFN GmbH in Berlin.
+In July 2024 I started professional training at GFN GmbH in Berlin to become a software developer.
 Topics I learned about include:
 + basics in business administration and company structures
 + computer hardware
