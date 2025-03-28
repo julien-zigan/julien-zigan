@@ -46,7 +46,7 @@ Topics I learned about include:
 
 I have worked with PyCharm, IDEA, Visual Studio, VS Code, Eclipse, Arduino IDE. 
 
-Currently, I'm most interested in C programming and related low level applications, 
+Currently, I'm most interested in C programming and related low level applications, as well as in communication protocols, 
 gaining a lot of foundational knowledge. I'm working on Debian, with Neovim, gcc, gdb, make and ctags.
 
 Enjoy browsing my code and please be kind to me, I know I am but a few steps down a long and winding road!
