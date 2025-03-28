@@ -12,8 +12,8 @@ structuring them in source code, you can - I sh*t you not - actually solve
 day to day problems??? Well, why didn't you tell me sooner❓
 
 It was rather cumbersome to get there on my own, I can tell you! First, I 
-had to learn discipline, so I spent five years in the army. Alas, that overdid it, 
-so it took me a considarable time studying literature and philosophy to brush the abudant 
+had to learn discipline, so I spent five years in the army. Unfortunately, that overdid it, 
+so it took me a considarable amount of time studying literature and philosophy to brush the abudant 
 discipline off. Two years spent in Poland followed, learning a completely unfamiliar 
 language (why not?) and working in customer service for an international e-commerce company.
 Back in Germany I worked two years in logistics and another two years in roofing. 
