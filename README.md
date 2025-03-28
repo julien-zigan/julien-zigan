@@ -9,7 +9,7 @@ Either way, the work always pays off.
 Having a tendency to dwell in theory, it felt like braking a curse when I discovered coding.
 Did you know that by juggling around some comfortably abstract concepts and 
 structuring them in source code, you can - I sh*t you not - actually solve 
-day to day problems??? Well, why didn't you tell me sooner:question:
+day to day problems??? Well, why didn't you tell me sooner❓
 
 It was rather cumbersome to get there on my own, I can tell you! First, I 
 had to learn discipline, so I spent five years at the army. Alas, that overdid it, 
