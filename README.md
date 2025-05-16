@@ -1,6 +1,6 @@
 # :wave: Hi, I'm Julien!
 
-I'm about one year into programming and I am working with Java, Python and C.  
+I'm about one year into programming and I am working with Java, Python, C, HTML, CSS and JavaScript.  
 
 Currently, I'm learning backend development with Spring and Spring Boot.
 
